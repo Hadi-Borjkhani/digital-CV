@@ -5,3 +5,10 @@ description: "Researcher in Bioelectric, Electronics, and Biomedical Signal Anal
 theme: jekyll-theme-dinky
 url: "https://username.github.io" # Replace with your GitHub Pages URL
 
+# Navigation links
+nav:
+ # - home: /
+  - research: "/research 🔬"
+ # - projects: /projects
+ # - contact: /contact
+  - address: "https://scholar.google.com/citations?user=yuHq5nwAAAAJ&hl=en"
