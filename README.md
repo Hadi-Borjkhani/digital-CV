@@ -1,5 +1,4 @@
-# EDUCATION
-
+### EDUCATION
 **HTW Berlin, Berlin, Germany**  
 **2023–Present** Scientific Assistant in Gesundheitstechnik (Health Electronics)  
 **Tehran University, Tehran, Iran**  
@@ -8,9 +7,7 @@
 **2011–2014** Master's in Electrical Engineering  
 **Urmia University, Urmia, West Azerbaijan, Iran**  
 **2007–2011** Bachelor's in Electrical Engineering  
-
-# WORK EXPERIENCE  
-
+### WORK EXPERIENCE  
 **Scientific Assistant and Lecturer**  
 **2023–Present** HTW Berlin, Berlin, Germany  
 **Associate Researcher**  
@@ -25,9 +22,7 @@
 - Urmia University of Technology
 - Science and Technology Institute, Urmia  
 - Urumi Graduate Institute, Urmia 
-
-# SKILLS (Software and Hardware)  
-
+### SKILLS (Software and Hardware)  
 - **Electrical Circuit Simulation:** Cadence, ADS, Hspice, Proteus, LTSpice  
 - **Mathematic Tools:** MATLAB, Python  
 - **Toolboxes:** MNE, Brain AnalyzIR, Iso2mesh, Homer2 & 3, ICAlab, EEGLab, ARL EEG Models, NIRFAST, NeuroDOT  
